@@ -12,3 +12,4 @@ C:\Users\HomePC\MyFirstApp\obj\Debug\net9.0\refint\MyFirstApp.dll
 C:\Users\HomePC\MyFirstApp\obj\Debug\net9.0\MyFirstApp.pdb
 C:\Users\HomePC\MyFirstApp\obj\Debug\net9.0\MyFirstApp.genruntimeconfig.cache
 C:\Users\HomePC\MyFirstApp\obj\Debug\net9.0\ref\MyFirstApp.dll
+C:\Users\HomePC\MyFirstApp\obj\Debug\net9.0\MyFirstApp.sourcelink.json
